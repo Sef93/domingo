@@ -1,0 +1,9 @@
+<table id="tablazat">
+			<tr><td id="nagyszoveg">Üdvözöljük!</td> </tr>
+			<tr>
+				<td>Curabitur venenatis nulla ante, ut faucibus nisi ullamcorper id. Praesent nec mauris purus. Curabitur aliquam blandit libero, a porta erat malesuada at. Nullam sollicitudin semper diam. Ut eu interdum risus. Nunc placerat ac eros sed accumsan. Phasellus ligula elit, maximus vitae cursus sed, faucibus id ante. Duis venenatis ut augue sed tempus. Aliquam erat volutpat. Aliquam vel mi id nunc laoreet elementum. Mauris porttitor eget arcu nec gravida. Quisque congue mauris sit amet sollicitudin pretium. Mauris fermentum vestibulum leo, at sagittis turpis cursus sed.</td>
+				<td><img src="udvkepgomb.png"></td>
+			</tr>
+			<tr>
+				<td><img src="udvvideogomb.png"></td>
+			</table>
